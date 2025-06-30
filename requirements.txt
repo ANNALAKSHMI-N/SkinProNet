@@ -1,0 +1,14 @@
+tensorflow==2.10.0
+keras
+tqdm
+opencv-python
+scikit-image
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+pyqt5
+prettytable
+cmapy

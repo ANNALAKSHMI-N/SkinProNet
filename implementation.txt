@@ -1,0 +1,33 @@
++----------------------------------------+
+| Skin Lesion Detection Over 5G Networks |
++----------------------------------------+
+
+    1. Dataset
+        * https://data.mendeley.com/datasets/zr7vgbcyr2/1
+
+    2. Preprocessing
+        * Augmenting Normal Images
+        * Noise Removal - Weiner Filter
+        * Contrast Enhancement - CLAHE
+
+    3. Feature Extraction
+        * EfficientNet V2 Small
+
+    4. Classification
+        * Attention Convolutional Recurrent Neural Network
+        * Optimization - RMSProp Optimizer
+
+    5. Evaluation
+        -> Accuracy
+        -> Precision
+        -> Sensitivity
+        -> Specificity
+        -> F1-Score
+        -> MCC
+
+    6. Segmentation
+        * U2NetPP (Skin Lesion Region Segmentation Model)
+        * Evaluation
+            -> Accuracy
+            -> Dice Coefficient Loss
+            -> IOU Metric

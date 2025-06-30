@@ -1,0 +1,7 @@
+Metrics,Values
+Accuracy,0.9370
+Precision,0.9454
+Sensitivity,0.7617
+Specificity,0.9892
+F1-Score,0.8110
+MCC,0.8215
