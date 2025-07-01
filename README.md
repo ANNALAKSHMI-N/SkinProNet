@@ -4,4 +4,7 @@ SkinProNet is an AI-driven software tool that performs classification and segmen
 
 You can download the full dataset here:
 
-👉 [Download from Google Drive]
+👉 https://drive.google.com/drive/folders/1fcPcl7pXIb2UzDQ7m-qFIo0y_-MxCds-?usp=sharing
+
+
+
