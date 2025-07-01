@@ -9,6 +9,8 @@ You can download the full dataset here:
 1. 🖼️ Image Selection
 
 The user selects a dermoscopic image from the dataset through a file dialog interface. The selected image is loaded for processing.
+![Input Image](o1.png)
+
 
 
 
