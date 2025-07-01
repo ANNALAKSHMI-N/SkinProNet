@@ -6,5 +6,12 @@ You can download the full dataset here:
 
 👉 https://drive.google.com/drive/folders/1fcPcl7pXIb2UzDQ7m-qFIo0y_-MxCds-?usp=sharing
 
+1. 🖼️ Image Selection
+
+The user selects a dermoscopic image from the dataset through a file dialog interface. The selected image is loaded for processing.
+
+
+
+
 
 
